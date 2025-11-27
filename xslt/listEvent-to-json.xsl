@@ -9,7 +9,7 @@
     Output: JSON structure compatible with Python affiliation-builder
     
     XSLT Version: 3.0
-    Processor: Saxon-HE 10+ or other XSLT 3.0 compliant processor
+    Processor: Saxon-HE 9.9+ or other XSLT 3.0 compliant processor
     
     Author: Timo Frühwirth
     License: MIT
