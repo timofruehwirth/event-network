@@ -161,6 +161,16 @@
                         </xsl:otherwise>
                     </xsl:choose>
                 </xsl:for-each-group>
+                
+                <!-- ================================================== -->
+                <!-- Capture text content if present -->
+                <!-- ================================================== -->
+                <!-- Pass to variable cleaned up concatenated text nodes of current element -->
+                <xsl:variable name="text-content" select="normalize-space(string-join($element/text(), ' '))"/>
+                <xsl:if test="$text-content != ''">
+                    <!-- Add key-value pair for text content to JSON object -->
+                    <xsl:map-entry key="'#text'" select="$text-content"/>
+                </xsl:if>
             </xsl:map>
         </xsl:variable>
         
