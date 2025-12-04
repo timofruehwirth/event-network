@@ -1,4 +1,4 @@
-# event-network
+# event-network/xslt
 
 ## listEvent-to-json.xsl
 
