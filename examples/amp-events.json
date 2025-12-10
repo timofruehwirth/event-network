@@ -1,0 +1,3006 @@
+{ 
+    "listEvent": [
+      {
+        "notAfter-iso": "1967-11-04",
+        "notBefore-iso": "1967-11-04",
+        "listPerson": [ 
+          {
+            "persName": "Eiermann, Emma",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_16"
+          } ],
+        "label": "Death Emma Eiermann 1967-11-04",
+        "type": "personal",
+        "xml:id": "amp_event_id_1"
+      },
+      {
+        "notAfter-iso": "1968-12-13",
+        "listPlace": [ 
+          {
+            "placeName": "Austria",
+            "location": { 
+              "geo": "47.33333, 13.33333",
+              "type": "coords" },
+            "sameAs": "amp_place_id_10",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1968-12-13",
+        "listPerson": [ 
+          {
+            "persName": "Boras, Ioannis",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_23"
+          } ],
+        "label": "Death Ioannis Boras 1968-12-13",
+        "type": "personal",
+        "xml:id": "amp_event_id_2"
+      },
+      {
+        "notAfter-iso": "1973-09-28",
+        "listPlace": [ 
+          {
+            "placeName": "Palais Pálffy",
+            "location": { 
+              "geo": "48.20644, 16.3678",
+              "type": "coords" },
+            "sameAs": "amp_place_id_85",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1973-09-28",
+        "listPerson": [
+          { 
+            "persName": "Benning, Achim",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_129" },
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_1" },
+          { 
+            "persName": "Kraus, Wolfgang",
+            "role": "is_organizer_of",
+            "sameAs": "amp_person_137" },
+          { 
+            "persName": "Bronold, Hella",
+            "role": "is_organizer_of",
+            "sameAs": "amp_person_135" }
+        ],
+        "label": "Reading W. H. Auden \"Gedichte\/Poems\" 1973-09-28",
+        "type": "professional",
+        "xml:id": "amp_event_id_3"
+      },
+      {
+        "notAfter-iso": "1965-11-10",
+        "listPlace": [ 
+          {
+            "placeName": "United States of America",
+            "location": { 
+              "geo": "39.76, -98.5",
+              "type": "coords" },
+            "sameAs": "amp_place_id_15",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1965-11-09",
+        "listPerson": [ 
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" } ],
+        "label": "Northeast blackout of 1965 1965-11-09--1965-11-10",
+        "type": "historic",
+        "idno": { 
+          "#text": "http:\/\/www.wikidata.org\/entity\/Q1251686",
+          "subtype": "WIKIDATA",
+          "type": "URI" },
+        "xml:id": "amp_event_id_4"
+      },
+      {
+        "notAfter-iso": "1966-01-13",
+        "listPlace": [ 
+          {
+            "placeName": "New York City",
+            "location": { 
+              "geo": "40.71427, -74.00597",
+              "type": "coords" },
+            "sameAs": "amp_place_id_28",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1966-01-01",
+        "listPerson": [ 
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" } ],
+        "label": "1966 New York City transit strike 1966-01-01--1966-01-13",
+        "type": "historic",
+        "idno": { 
+          "#text": "http:\/\/www.wikidata.org\/entity\/Q3118377",
+          "subtype": "WIKIDATA",
+          "type": "URI" },
+        "xml:id": "amp_event_id_5"
+      },
+      {
+        "notAfter-iso": "1967-10-28",
+        "org": { 
+          "orgName": "Eliot College",
+          "role": "is_host_of",
+          "sameAs": "amp_organization_57" },
+        "listPlace": [ 
+          {
+            "placeName": "Canterbury",
+            "location": { 
+              "geo": "51.27904, 1.07992",
+              "type": "coords" },
+            "sameAs": "amp_place_id_39",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1967-10-25",
+        "listPerson": [ 
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_1" } ],
+        "label": "T S Eliot Memorial Lectures: \"Secondary Worlds - Art and Truth\" 1967-10-25--1967-10-28",
+        "type": "professional",
+        "idno": { 
+          "#text": "http:\/\/www.wikidata.org\/entity\/Q123758233",
+          "subtype": "WIKIDATA",
+          "type": "URI" },
+        "xml:id": "amp_event_id_6"
+      },
+      {
+        "notAfter-iso": "1969-05-10",
+        "listPlace": [ 
+          {
+            "placeName": "Austria",
+            "location": { 
+              "geo": "47.33333, 13.33333",
+              "type": "coords" },
+            "sameAs": "amp_place_id_10",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1969-05-05",
+        "listPerson": [
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_2"
+          },
+          {
+            "persName": "Anne, Princess Royal",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_140"
+          },
+          {
+            "persName": "Elizabeth II., Elizabeth of the United Kingdom",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_138"
+          },
+          { 
+            "persName": "Windisch-Graetz, Eva",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_147" }
+        ],
+        "label": "State visit of Queen Elizabeth II in Austria 1969-05-05--1969-05-10",
+        "type": "historic",
+        "idno": { 
+          "#text": "http:\/\/www.wikidata.org\/entity\/Q72716379",
+          "subtype": "WIKIDATA",
+          "type": "URI" },
+        "xml:id": "amp_event_id_7"
+      },
+      {
+        "notAfter-iso": "1848-12-31",
+        "notBefore-iso": "1815-01-01",
+        "label": "Biedermeier period",
+        "type": "historic",
+        "idno": { 
+          "#text": "http:\/\/www.wikidata.org\/entity\/Q154432",
+          "subtype": "WIKIDATA",
+          "type": "URI" },
+        "xml:id": "amp_event_id_8"
+      },
+      {
+        "notAfter-iso": "1967-10-25",
+        "org": { 
+          "orgName": "Eliot College",
+          "role": "is_host_of",
+          "sameAs": "amp_organization_57" },
+        "listPlace": [ 
+          {
+            "placeName": "Canterbury",
+            "location": { 
+              "geo": "51.27904, 1.07992",
+              "type": "coords" },
+            "sameAs": "amp_place_id_39",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1967-10-25",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Ramsey, Michael",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_15"
+          },
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_1" },
+          { 
+            "persName": "Ramsey, Michael",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_15" }
+        ],
+        "label": "W. H. Auden's lecture \"The Martyr as Dramatic Hero\" 1967-10-25",
+        "type": "professional",
+        "xml:id": "amp_event_id_9"
+      },
+      {
+        "notAfter-iso": "1968-02-16",
+        "listPlace": [ 
+          {
+            "placeName": "Vienna",
+            "location": { 
+              "geo": "48.20849, 16.37208",
+              "type": "coords" },
+            "sameAs": "amp_place_id_1",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1968-02-12",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" },
+          { 
+            "persName": "Strobl, Franz",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_176" },
+          { 
+            "persName": "Strobl, Josefa",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_32" }
+        ],
+        "label": "W. H. Auden's interview of Strobls 1968-02-12--1968-02-16",
+        "subtype": "meeting",
+        "type": "communicative",
+        "xml:id": "amp_event_id_10"
+      },
+      {
+        "notAfter-iso": "1970-06-13",
+        "listPlace": [ 
+          {
+            "placeName": "Lower Austria",
+            "location": { 
+              "geo": "48.33333, 15.75",
+              "type": "coords" },
+            "sameAs": "amp_place_id_6",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1970-06-13",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_1" },
+          { 
+            "persName": "Kallman, Chester",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_4" }
+        ],
+        "label": "\"Wedding near Krems\" 1970-06-13",
+        "type": "personal",
+        "xml:id": "amp_event_id_14"
+      },
+      {
+        "notAfter-iso": "1962-08-31",
+        "listPlace": [ 
+          {
+            "placeName": "Hinterholz 6",
+            "location": { 
+              "geo": "48.18153, 15.81151",
+              "type": "coords" },
+            "sameAs": "amp_place_id_2",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1962-08-01",
+        "listPerson": [
+          {
+            "persName": "Zimmer, Christiane",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_3"
+          },
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" }
+        ],
+        "label": "Meeting W. H. Auden and Christiane Zimmer 1962-08-01--1962-08-31",
+        "subtype": "meeting",
+        "type": "communicative",
+        "xml:id": "amp_event_id_16"
+      },
+      {
+        "notAfter-iso": "1962-10-20",
+        "listPlace": [ 
+          {
+            "placeName": "Hinterholz 6",
+            "location": { 
+              "geo": "48.18153, 15.81151",
+              "type": "coords" },
+            "sameAs": "amp_place_id_2",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1962-10-20",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Kallman, Chester",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_4"
+          },
+          {
+            "persName": "Lustkandl, Franz",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_109"
+          }
+        ],
+        "label": "Meeting W. H. Auden, Chester Kallman, and Franz Josef Lustkandl 1962-10-20",
+        "subtype": "meeting",
+        "type": "communicative",
+        "xml:id": "amp_event_id_17"
+      },
+      {
+        "notAfter-iso": "1973-09-29",
+        "listPlace": [ 
+          {
+            "placeName": "Hotel Altenburgerhof",
+            "location": { 
+              "geo": "48.20379, 16.37118",
+              "type": "coords" },
+            "sameAs": "amp_place_id_225",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1973-09-28",
+        "listPerson": [ 
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" } ],
+        "label": "Death W. H. Auden 1973-09-28--1973-09-29",
+        "type": "personal",
+        "xml:id": "amp_event_id_18"
+      },
+      {
+        "notAfter-iso": "1973-10-04",
+        "listPlace": [ 
+          {
+            "placeName": "Kirchstetten",
+            "location": { 
+              "geo": "48.18333, 15.81667",
+              "type": "coords" },
+            "sameAs": "amp_place_id_5",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1973-10-04",
+        "listPerson": [
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_2"
+          },
+          { 
+            "persName": "Duncan, Bruce",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_156" },
+          { 
+            "persName": "Kallman, Chester",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_4" },
+          { 
+            "persName": "Auden, John Bicknell",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_88" },
+          {
+            "persName": "Schickelgruber, Anton",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_230"
+          },
+          { 
+            "persName": "Kurka, Hugo",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_107" },
+          { 
+            "persName": "Kurka, Christa",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_240" },
+          {
+            "persName": "N\/A_8, \"he whose name we never mention\"",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_175"
+          },
+          { 
+            "persName": "Clark, Thekla",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_96" },
+          { 
+            "persName": "Clark, Lisa",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_169" },
+          { 
+            "persName": "Seitz, Maria",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_97" },
+          { 
+            "persName": "Enzinger, Josef",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_22" },
+          {
+            "persName": "Luke, Frederic Davey [David]",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_89"
+          },
+          { 
+            "persName": "Orwell, Sonia",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_90" },
+          { 
+            "persName": "Mendelson, Edward",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_98" },
+          { 
+            "persName": "Yates, Michael",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_229" },
+          {
+            "persName": "Yates, Marny (Margaret)",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_228"
+          },
+          { 
+            "persName": "Bronold, Hella",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_135" },
+          { 
+            "persName": "Kraus, Wolfgang",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_137" },
+          { 
+            "persName": "Heer, Friedrich",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_54" },
+          { 
+            "persName": "Osborne, Charles",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_227" },
+          { 
+            "persName": "Monteith, Charles",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_120" },
+          { 
+            "persName": "Esders, Christa",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_121" }
+        ],
+        "label": "Funeral of W. H. Auden 1973-10-04",
+        "type": "personal",
+        "xml:id": "amp_event_id_19"
+      },
+      {
+        "notAfter-iso": "1984-10-13",
+        "org": [
+          { 
+            "orgName": "Künstlerhaus Wien",
+            "role": "is_host_of",
+            "sameAs": "amp_organization_60" },
+          { 
+            "orgName": "British Council",
+            "role": "is_organizer_of",
+            "sameAs": "amp_organization_16" }
+        ],
+        "listPlace": [ 
+          {
+            "placeName": "Vienna",
+            "location": { 
+              "geo": "48.20849, 16.37208",
+              "type": "coords" },
+            "sameAs": "amp_place_id_1",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1984-10-11",
+        "listPerson": [
+          { 
+            "persName": "O'Sullivan, Michael",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_99" },
+          { 
+            "persName": "Spender, Stephen",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_8" },
+          { 
+            "persName": "Carpenter, Humphrey",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_100" },
+          { 
+            "persName": "Raimund, Hans",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_127" }
+        ],
+        "label": "Symposium \"W. H. Auden 1907-1973\" 1984-10-11--1984-10-13",
+        "type": "professional",
+        "xml:id": "amp_event_id_21"
+      },
+      {
+        "notAfter-iso": "1969-05-28",
+        "listPlace": [ 
+          {
+            "placeName": "Hinterholz 6",
+            "location": { 
+              "geo": "48.18153, 15.81151",
+              "type": "coords" },
+            "sameAs": "amp_place_id_2",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1969-05-28",
+        "listPerson": [
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          },
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Kallman, Chester",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_4"
+          },
+          {
+            "persName": "Heer, Friedrich",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_54"
+          }
+        ],
+        "label": "Meeting W. H. Auden, Friedrich Heer, Chester Kallman, and Stella Musulin 1969-05-28",
+        "subtype": "meeting",
+        "type": "personal",
+        "xml:id": "amp_event_id_22"
+      },
+      {
+        "notAfter-iso": "1977-05-05",
+        "org": {
+          "orgName": "Österreichische Gesellschaft für Literatur (Austrian Society for Literature)",
+          "role": "is_organizer_of",
+          "sameAs": "amp_organization_9"
+        },
+        "listPlace": [ 
+          {
+            "placeName": "Palais Pálffy",
+            "location": { 
+              "geo": "48.20644, 16.3678",
+              "type": "coords" },
+            "sameAs": "amp_place_id_85",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1977-05-05",
+        "listPerson": [
+          {
+            "persName": "Kraus, Wolfgang",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_137"
+          },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_2"
+          }
+        ],
+        "label": "Stella Musulin's talk \"W. H. Auden und die Österreicher\" 1977-05-05",
+        "type": "professional",
+        "xml:id": "amp_event_id_23"
+      },
+      {
+        "notAfter-iso": "1962-10-04",
+        "org": {
+          "orgName": "Österreichische Gesellschaft für Literatur (Austrian Society for Literature)",
+          "role": "is_organizer_of",
+          "sameAs": "amp_organization_9"
+        },
+        "notBefore-iso": "1962-10-04",
+        "listPerson": [
+          { 
+            "persName": "Gasser, Wolfgang",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_243" },
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_1" }
+        ],
+        "label": "Reading W. H. Auden 1962-10-04",
+        "type": "professional",
+        "xml:id": "amp_event_id_25"
+      },
+      {
+        "notAfter-iso": "1964-10-18",
+        "org": { 
+          "orgName": "PEN International",
+          "role": "is_organizer_of",
+          "sameAs": "amp_organization_51" },
+        "listPlace": [ 
+          {
+            "placeName": "Budapest",
+            "location": { 
+              "geo": "47.49835, 19.04045",
+              "type": "coords" },
+            "sameAs": "amp_place_id_86",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1964-10-15",
+        "listPerson": [ 
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_1" } ],
+        "label": "PEN International Executive Committee and Round Table Discussion \"Tradition and Innovation in Contemporary Literature\" 1964-10-15--1964-10-18",
+        "type": "professional",
+        "xml:id": "amp_event_id_26"
+      },
+      {
+        "notAfter-iso": "1965-04-01",
+        "listPlace": [ 
+          {
+            "placeName": "Berlin",
+            "location": { 
+              "geo": "52.52437, 13.41053",
+              "type": "coords" },
+            "sameAs": "amp_place_id_17",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1964-10-01",
+        "listPerson": [ 
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" } ],
+        "label": "W. H. Auden's Ford Foundation Residency at Berlin, 1964-1965",
+        "type": "professional",
+        "xml:id": "amp_event_id_27"
+      },
+      {
+        "notAfter-iso": "1965-05-24",
+        "org": [
+          {
+            "orgName": "Österreichisch-Britische Gesellschaft (Austro-British Society)",
+            "role": "is_organizer_of",
+            "sameAs": "amp_organization_35"
+          },
+          { 
+            "orgName": "British Council",
+            "role": "is_organizer_of",
+            "sameAs": "amp_organization_16" },
+          {
+            "orgName": "Naturhistorisches Museum Wien (Natural History Museum Vienna)",
+            "role": "is_host_of",
+            "sameAs": "amp_organization_61"
+          }
+        ],
+        "listPlace": [ 
+          {
+            "placeName": "Vienna",
+            "location": { 
+              "geo": "48.20849, 16.37208",
+              "type": "coords" },
+            "sameAs": "amp_place_id_1",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1965-05-24",
+        "listPerson": [
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_2"
+          },
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_1" }
+        ],
+        "label": "W. H. Auden's talk \"T. S. Eliot\" 1965-05-24",
+        "type": "professional",
+        "xml:id": "amp_event_id_29"
+      },
+      {
+        "notAfter-iso": "1966-10-18",
+        "listPlace": [ 
+          {
+            "placeName": "Westminster Abbey",
+            "location": { 
+              "geo": "51.49937, -0.12846",
+              "type": "coords" },
+            "sameAs": "amp_place_id_87",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1966-10-18",
+        "listPerson": [ 
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_1" } ],
+        "label": "W. H. Auden's sermon delivered in Westminster Abbey 1966-10-18",
+        "type": "professional",
+        "xml:id": "amp_event_id_30"
+      },
+      {
+        "notAfter-iso": "1967-04-26",
+        "listPlace": [
+          {
+            "placeName": "Palais Pálffy",
+            "location": { 
+              "geo": "48.20644, 16.3678",
+              "type": "coords" },
+            "sameAs": "amp_place_id_85",
+            "subtype": "is_event_location",
+            "type": "location"
+          },
+          {
+            "placeName": "Hofburg",
+            "location": { 
+              "geo": "48.20563, 16.36469",
+              "type": "coords" },
+            "sameAs": "amp_place_id_89",
+            "subtype": "is_event_location",
+            "type": "location"
+          }
+        ],
+        "notBefore-iso": "1967-04-24",
+        "listPerson": [
+          { 
+            "persName": "Toynbee, Philip",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_91" },
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_1" },
+          { 
+            "persName": "Bondy, François",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_73" },
+          { 
+            "persName": "McCarthy, Mary",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_72" },
+          { 
+            "persName": "Etkind, Efim",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_74" },
+          {
+            "persName": "\"the square-headed commissar type from Moscow\"",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_182"
+          },
+          { 
+            "persName": "Reich-Ranicki, Marcel",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_75" },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_2"
+          },
+          { 
+            "persName": "Kallman, Chester",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_4" },
+          { 
+            "persName": "Kraus, Wolfgang",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_137" },
+          { 
+            "persName": "Breicha, Otto",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_152" }
+        ],
+        "label": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "type": "professional",
+        "xml:id": "amp_event_id_31"
+      },
+      {
+        "notAfter-iso": "1968-07-25",
+        "org": {
+          "orgName": "Großes Festspielhaus (Large Festival House)",
+          "role": "is_host_of",
+          "sameAs": "amp_organization_62"
+        },
+        "listPlace": [ 
+          {
+            "placeName": "Salzburg",
+            "location": { 
+              "geo": "47.79941, 13.04399",
+              "type": "coords" },
+            "sameAs": "amp_place_id_37",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1968-07-25",
+        "listPerson": [ 
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_1" } ],
+        "label": "W. H. Auden's speech \"Worte und Noten: Rede zur Eröffnung der Salzburger Festspiele\" 1968-07-25",
+        "type": "professional",
+        "xml:id": "amp_event_id_32"
+      },
+      {
+        "notAfter-iso": "1968-04-30",
+        "listPlace": [ 
+          {
+            "placeName": "Kirchstetten",
+            "location": { 
+              "geo": "48.18333, 15.81667",
+              "type": "coords" },
+            "sameAs": "amp_place_id_5",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1968-04-01",
+        "listPerson": [ 
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" } ],
+        "label": "Car accident W. H. Auden 1968-04",
+        "type": "personal",
+        "xml:id": "amp_event_id_34"
+      },
+      {
+        "notAfter-iso": "1962-10-15",
+        "listPlace": [ 
+          {
+            "placeName": "Lower Austria",
+            "location": { 
+              "geo": "48.33333, 15.75",
+              "type": "coords" },
+            "sameAs": "amp_place_id_6",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1962-10-01",
+        "listPerson": [
+          { 
+            "persName": "Kurka, Hugo",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_107" },
+          {
+            "persName": "Kurka, Christa",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_240"
+          },
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" }
+        ],
+        "label": "Arrest and court trial of Christa K. and Hugo K. 1962",
+        "type": "personal",
+        "xml:id": "amp_event_id_36"
+      },
+      {
+        "notAfter-iso": "1970-06-14",
+        "listPlace": [ 
+          {
+            "placeName": "Neulengbach",
+            "location": { 
+              "geo": "48.19745, 15.90219",
+              "type": "coords" },
+            "sameAs": "amp_place_id_47",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1970-06-14",
+        "listPerson": [
+          { 
+            "persName": "Maurer, Andreas",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_112" },
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_1" },
+          { 
+            "persName": "Breicha, Otto",
+            "role": "is_organizer_of",
+            "sameAs": "amp_person_152" }
+        ],
+        "label": "Lyrik 70 poetry convention 1970-06-14",
+        "type": "professional",
+        "idno": { 
+          "#text": "http:\/\/www.wikidata.org\/entity\/Q124289732",
+          "subtype": "WIKIDATA",
+          "type": "URI" },
+        "xml:id": "amp_event_id_37"
+      },
+      {
+        "notAfter-iso": "1966-02-03",
+        "listPlace": [ 
+          {
+            "placeName": "Eslarngasse 18",
+            "location": { 
+              "geo": "48.19436511723707, 16.392957740017156",
+              "type": "coords" },
+            "sameAs": "amp_place_id_71",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1965-12-21",
+        "listPerson": [
+          {
+            "persName": "Kallman, Chester",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_4"
+          },
+          {
+            "persName": "N\/A_8, \"he whose name we never mention\"",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_175"
+          },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_2"
+          }
+        ],
+        "label": "Party at Chester Kallman's apartment in Eslarngasse 18 1965-12-21--1966-02-03",
+        "type": "personal",
+        "xml:id": "amp_event_id_38"
+      },
+      {
+        "notAfter-iso": "1968-08-21",
+        "listPlace": [ 
+          {
+            "placeName": "Czechoslovakia",
+            "location": { 
+              "geo": "50.08292, 14.46672",
+              "type": "coords" },
+            "sameAs": "amp_place_id_100",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1968-01-05",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_2"
+          },
+          { 
+            "persName": "Langer, N\/A_5",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_171" },
+          { 
+            "persName": "Langer, N\/A_4",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_155" }
+        ],
+        "label": "Prague Spring 1968-01-05--1968-08-21",
+        "type": "historic",
+        "idno": { 
+          "#text": "http:\/\/www.wikidata.org\/entity\/Q162401",
+          "subtype": "WIKIDATA",
+          "type": "URI" },
+        "xml:id": "amp_event_id_42"
+      },
+      {
+        "notAfter-iso": "1972-09-30",
+        "notBefore-iso": "1972-04-15",
+        "listPerson": [ 
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" } ],
+        "label": "Relocation W. H. Auden from New York City to Christ Church, Oxford 1972-04-15--1972-09-30",
+        "type": "personal",
+        "xml:id": "amp_event_id_43"
+      },
+      {
+        "notAfter-iso": "1972-09-19",
+        "org": [
+          {
+            "orgName": "Bundesministerium für Finanzen (Federal Ministry of Finance)",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_organization_161"
+          },
+          {
+            "orgName": "Finanzlandesdirektion für Wien, Niederösterreich und Burgenland (Provincial Tax Office for Vienna, Lower Austria and Burgenland)",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_organization_158"
+          },
+          {
+            "orgName": "Bundeskanzleramt (Federal Chancellery)",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_organization_164"
+          }
+        ],
+        "listPlace": [ 
+          {
+            "placeName": "Austria",
+            "location": { 
+              "geo": "47.33333, 13.33333",
+              "type": "coords" },
+            "sameAs": "amp_place_id_10",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1972-06-21",
+        "listPerson": [
+          {
+            "persName": "Kreisky, Bruno",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_282"
+          },
+          { 
+            "persName": "Spiel, Hilde",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_78" },
+          { 
+            "persName": "Mussi, Ingo",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_285" },
+          {
+            "persName": "Kraus, Wolfgang",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_137"
+          }
+        ],
+        "label": "W. H. Auden's legal dispute with Austrian tax authorities 1972-06-21--1972-09-19",
+        "type": "personal",
+        "xml:id": "amp_event_id_45"
+      },
+      {
+        "notAfter-iso": "1966-10-25",
+        "org": {
+          "orgName": "Bundesministerium für Unterricht und Kunst (Federal Ministry of Education and the Arts)",
+          "role": "is_organizer_of",
+          "sameAs": "amp_organization_43"
+        },
+        "listPlace": [ 
+          {
+            "placeName": "Vienna",
+            "location": { 
+              "geo": "48.20849, 16.37208",
+              "type": "coords" },
+            "sameAs": "amp_place_id_1",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1966-10-25",
+        "listPerson": [ 
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" } ],
+        "label": "Awarding of Austrian State Prize for European Literature to W. H. Auden 1966-10-25",
+        "type": "professional",
+        "xml:id": "amp_event_id_46"
+      },
+      {
+        "notAfter-iso": "1975-04-30",
+        "listPlace": [ 
+          {
+            "placeName": "Vietnam",
+            "location": { 
+              "geo": "16.16667, 107.83333",
+              "type": "coords" },
+            "sameAs": "amp_place_id_236",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1955-11-01",
+        "label": "Vietnam War 1955-11-01--1975-04-30",
+        "type": "historic",
+        "idno": { 
+          "#text": "http:\/\/www.wikidata.org\/entity\/Q8740",
+          "subtype": "WIKIDATA",
+          "type": "URI" },
+        "xml:id": "amp_event_id_47"
+      },
+      {
+        "notAfter-iso": "1968-01-23",
+        "notBefore-iso": "1968-01-20",
+        "label": "Pueblo incident 1968-01-20--1968-01-23",
+        "type": "historic",
+        "idno": { 
+          "#text": "http:\/\/www.wikidata.org\/entity\/Q712703",
+          "subtype": "WIKIDATA",
+          "type": "URI" },
+        "xml:id": "amp_event_id_48"
+      },
+      {
+        "notAfter-iso": "1965-10-30",
+        "listPlace": [ 
+          {
+            "placeName": "Kirchstetten",
+            "location": { 
+              "geo": "48.18333, 15.81667",
+              "type": "coords" },
+            "sameAs": "amp_place_id_5",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1965-10-30",
+        "listPerson": [ 
+          { 
+            "persName": "Seitz, Josef",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_200" } ],
+        "label": "Commemorative event Josef Weinheber’s death 1965-10-30",
+        "type": "historic",
+        "xml:id": "amp_event_id_49"
+      },
+      { 
+        "label": "Death of Josef Eiermann",
+        "type": "personal",
+        "xml:id": "amp_event_id_51" },
+      {
+        "notAfter-iso": "1948-01-01",
+        "listPlace": [ 
+          {
+            "placeName": "Czechoslovakia",
+            "location": { 
+              "geo": "50.08292, 14.46672",
+              "type": "coords" },
+            "sameAs": "amp_place_id_100",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1945-01-01",
+        "label": "Expulsion of Germans from Czechoslovakia, 1945-1948",
+        "type": "historic",
+        "idno": { 
+          "#text": "http:\/\/www.wikidata.org\/entity\/Q542945",
+          "subtype": "WIKIDATA",
+          "type": "URI" },
+        "xml:id": "amp_event_id_52"
+      },
+      {
+        "notAfter-iso": "1918-11-11",
+        "notBefore-iso": "1914-07-28",
+        "label": "World War I 1914-07-28--1918-11-11",
+        "type": "historic",
+        "idno": { 
+          "#text": "http:\/\/www.wikidata.org\/entity\/Q361",
+          "subtype": "WIKIDATA",
+          "type": "URI" },
+        "xml:id": "amp_event_id_53"
+      },
+      {
+        "notAfter-iso": "1945-09-02",
+        "notBefore-iso": "1939-09-01",
+        "label": "World War II 1939-09-01--1945-09-02",
+        "type": "historic",
+        "idno": { 
+          "#text": "http:\/\/www.wikidata.org\/entity\/Q362",
+          "subtype": "WIKIDATA",
+          "type": "URI" },
+        "xml:id": "amp_event_id_54"
+      },
+      {
+        "listPlace": [ 
+          {
+            "placeName": "Austria",
+            "location": { 
+              "geo": "47.33333, 13.33333",
+              "type": "coords" },
+            "sameAs": "amp_place_id_10",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1938-03-12",
+        "label": "Anschluss (annexation of Austria into Nazi Germany 1938)",
+        "type": "historic",
+        "idno": { 
+          "#text": "http:\/\/www.wikidata.org\/entity\/Q154681",
+          "subtype": "WIKIDATA",
+          "type": "URI" },
+        "xml:id": "amp_event_id_55"
+      },
+      {
+        "listPlace": [ 
+          {
+            "placeName": "Salzburg",
+            "location": { 
+              "geo": "47.79941, 13.04399",
+              "type": "coords" },
+            "sameAs": "amp_place_id_37",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "label": "Salzburg Festival",
+        "type": "recurrent",
+        "idno": { 
+          "#text": "http:\/\/www.wikidata.org\/entity\/Q256443",
+          "subtype": "WIKIDATA",
+          "type": "URI" },
+        "xml:id": "amp_event_id_56"
+      },
+      {
+        "notAfter-iso": "1959-10-10",
+        "listPlace": [ 
+          {
+            "placeName": "Hinterholz 6",
+            "location": { 
+              "geo": "48.18153, 15.81151",
+              "type": "coords" },
+            "sameAs": "amp_place_id_2",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1959-01-01",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Zimmer, Christiane",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_3"
+          }
+        ],
+        "label": "Meeting W. H. Auden and Christiane Zimmer 1959-01-01--1959-10-10",
+        "subtype": "meeting",
+        "type": "personal",
+        "xml:id": "amp_event_id_57"
+      },
+      {
+        "notAfter-iso": "1951-03-31",
+        "listPlace": [ 
+          {
+            "placeName": "Mumbai",
+            "location": { 
+              "geo": "19.07283, 72.88261",
+              "type": "coords" },
+            "sameAs": "amp_place_id_274",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1951-03-28",
+        "listPerson": [ 
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" } ],
+        "label": "First Asian Conference on Cultural Freedom 1951-03-28--1951-03-31",
+        "type": "professional",
+        "xml:id": "amp_event_id_59"
+      },
+      {
+        "notAfter-iso": "1942-06-30",
+        "org": { 
+          "orgName": "University of Michigan",
+          "role": "is_host_of",
+          "sameAs": "amp_organization_58" },
+        "listPlace": [ 
+          {
+            "placeName": "Ann Arbor",
+            "location": { 
+              "geo": "42.27756, -83.74088",
+              "type": "coords" },
+            "sameAs": "amp_place_id_298",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1941-09-01",
+        "listPerson": [ 
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" } ],
+        "label": "W. H. Auden's position as Associate Professor of English in the University of Michigan at Ann Arbor 1941-1942",
+        "type": "professional",
+        "xml:id": "amp_event_id_60"
+      },
+      {
+        "notAfter-iso": "1959-10-05",
+        "listPlace": [ 
+          {
+            "placeName": "Hinterholz 6",
+            "location": { 
+              "geo": "48.18153, 15.81151",
+              "type": "coords" },
+            "sameAs": "amp_place_id_2",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1959-10-05",
+        "listPerson": [
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          },
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" }
+        ],
+        "label": "Letter Stella Musulin to W. H. Auden 1959-10-05",
+        "subtype": "letter",
+        "type": "communicative",
+        "xml:id": "amp_event_id_61"
+      },
+      {
+        "notAfter-iso": "1960-07-21",
+        "notBefore-iso": "1959-10-10",
+        "listPerson": [
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          },
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" }
+        ],
+        "label": "Postcard Stella Musulin to W. H. Auden 1959-10-10--1960-07-21",
+        "subtype": "postcard",
+        "type": "communicative",
+        "xml:id": "amp_event_id_62"
+      },
+      {
+        "notAfter-iso": "1960-07-23",
+        "listPlace": [ 
+          {
+            "placeName": "Hinterholz 6",
+            "location": { 
+              "geo": "48.18153, 15.81151",
+              "type": "coords" },
+            "sameAs": "amp_place_id_2",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1960-07-23",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          },
+          {
+            "persName": "Kallman, Chester",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_4"
+          }
+        ],
+        "label": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1960-07-23",
+        "subtype": "meeting",
+        "type": "communicative",
+        "xml:id": "amp_event_id_63"
+      },
+      {
+        "notAfter-iso": "1965-08-19",
+        "listPlace": [ 
+          {
+            "placeName": "\"your place\" (amp-transcript__0058.xml)",
+            "sameAs": "amp_place_id_315",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1961-10-19",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          }
+        ],
+        "label": "Meeting W. H. Auden and Stella Musulin 1961-10-19--1965-08-19",
+        "subtype": "meeting",
+        "type": "communicative",
+        "xml:id": "amp_event_id_64"
+      },
+      {
+        "notAfter-iso": "1961-10-13",
+        "listPlace": [ 
+          {
+            "placeName": "Hinterholz 6",
+            "location": { 
+              "geo": "48.18153, 15.81151",
+              "type": "coords" },
+            "sameAs": "amp_place_id_2",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1961-08-16",
+        "listPerson": [
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          },
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" }
+        ],
+        "label": "Letter Stella Musulin to W. H. Auden 1961-08-16--1961-10-13",
+        "subtype": "letter",
+        "type": "communicative",
+        "xml:id": "amp_event_id_65"
+      },
+      {
+        "notAfter-iso": "1962-05-23",
+        "notBefore-iso": "1962-05-23",
+        "listPerson": [
+          { 
+            "persName": "Busta-Dimt, Christine",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_204" },
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Kallman, Chester",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_4"
+          },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_2"
+          },
+          {
+            "persName": "Busta-Dimt, Christine",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_204"
+          },
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_1" },
+          { 
+            "persName": "Kallman, Chester",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_4" },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_2"
+          }
+        ],
+        "label": "Reading Christine Busta \"Meine Hinterhöfe\" 1962-05-23",
+        "type": "professional",
+        "xml:id": "amp_event_id_66"
+      },
+      {
+        "notAfter-iso": "1959-12-31",
+        "listPlace": [ 
+          {
+            "placeName": "Kaffee 3\/4",
+            "sameAs": "amp_place_id_301",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1958-01-01",
+        "listPerson": [
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          },
+          {
+            "persName": "Busta-Dimt, Christine",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_204"
+          }
+        ],
+        "label": "Meeting Stella Musulin with Christine Busta 1958-01-01--1959-12-31",
+        "subtype": "meeting",
+        "type": "communicative",
+        "xml:id": "amp_event_id_67"
+      },
+      {
+        "notAfter-iso": "1962-09-11",
+        "listPlace": [ 
+          {
+            "placeName": "Hinterholz 6",
+            "location": { 
+              "geo": "48.18153, 15.81151",
+              "type": "coords" },
+            "sameAs": "amp_place_id_2",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1962-07-23",
+        "listPerson": [
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          },
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" }
+        ],
+        "label": "Postcard Stella Musulin to W. H. Auden 1962-07-23--1962-09-11",
+        "subtype": "postcard",
+        "type": "communicative",
+        "xml:id": "amp_event_id_68"
+      },
+      {
+        "notAfter-iso": "1963-05-17",
+        "org": {
+          "orgName": "Österreichische Gesellschaft für Literatur (Austrian Society for Literature)",
+          "role": "is_organizer_of",
+          "sameAs": "amp_organization_9"
+        },
+        "listPlace": [ 
+          {
+            "placeName": "Palais Wilczek",
+            "location": { 
+              "geo": "48.20882, 16.36624",
+              "type": "coords" },
+            "sameAs": "amp_place_id_177",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1963-05-12",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" },
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_1" }
+        ],
+        "label": "International Rudolf Kassner Symposium 1963-05-12--1963-05-17",
+        "type": "professional",
+        "xml:id": "amp_event_id_69"
+      },
+      {
+        "notAfter-iso": "1964-12-23",
+        "listPlace": [ 
+          {
+            "placeName": "Hubertusbader Straße 43",
+            "location": { 
+              "geo": "52.47901, 13.27565",
+              "type": "coords" },
+            "sameAs": "amp_place_id_19",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1964-09-01",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          }
+        ],
+        "label": "Letter Stella Musulin to W. H. Auden 1964-09-01--1964-12-23",
+        "subtype": "letter",
+        "type": "communicative",
+        "xml:id": "amp_event_id_70"
+      },
+      {
+        "notAfter-iso": "1963-05-13",
+        "notBefore-iso": "1963-05-13",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          }
+        ],
+        "label": "Telephone call W. H. Auden to Stella Musulin 1963-05-13",
+        "subtype": "telephone",
+        "type": "communicative",
+        "xml:id": "amp_event_id_71"
+      },
+      {
+        "notAfter-iso": "1965-04-28",
+        "listPlace": [ 
+          {
+            "placeName": "Hinterholz 6",
+            "location": { 
+              "geo": "48.18153, 15.81151",
+              "type": "coords" },
+            "sameAs": "amp_place_id_2",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1965-03-15",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          }
+        ],
+        "label": "Letter Stella Musulin to W. H. Auden 1965-03-15--1965-04-28",
+        "subtype": "letter",
+        "type": "communicative",
+        "xml:id": "amp_event_id_72"
+      },
+      {
+        "notAfter-iso": "1965-04-28",
+        "notBefore-iso": "1965-04-28",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          }
+        ],
+        "label": "Telephone call W. H. Auden to Stella Musulin 1965-04-28",
+        "subtype": "telephone",
+        "type": "communicative",
+        "xml:id": "amp_event_id_73"
+      },
+      {
+        "notAfter-iso": "1965-09-29",
+        "listPlace": [ 
+          {
+            "placeName": "Hinterholz 6",
+            "location": { 
+              "geo": "48.18153, 15.81151",
+              "type": "coords" },
+            "sameAs": "amp_place_id_2",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1965-04-28",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          }
+        ],
+        "label": "Letter Stella Musulin to W. H. Auden 1965-04-28--1965-09-29",
+        "subtype": "letter",
+        "type": "communicative",
+        "xml:id": "amp_event_id_74"
+      },
+      {
+        "notAfter-iso": "1965-10-05",
+        "listPlace": [ 
+          {
+            "placeName": "Amerikahaus Vienna (1957-1971)",
+            "location": { 
+              "geo": "48.20227, 16.36881",
+              "type": "coords" },
+            "sameAs": "amp_place_id_27",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1965-10-05",
+        "listPerson": [ 
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_1" } ],
+        "label": "Reception Amerikahaus Vienna (1957-1971) 1965-10-05",
+        "type": "professional",
+        "xml:id": "amp_event_id_75"
+      },
+      {
+        "notAfter-iso": "1966-02-03",
+        "listPlace": [ 
+          {
+            "placeName": "77 St. Mark's Place",
+            "location": { 
+              "geo": "40.72839, -73.98359",
+              "type": "coords" },
+            "sameAs": "amp_place_id_29",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1965-09-29",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          }
+        ],
+        "label": "Letter Stella Musulin to W. H. Auden 1965-09-29--1966-02-03",
+        "subtype": "letter",
+        "type": "communicative",
+        "xml:id": "amp_event_id_76"
+      },
+      {
+        "notAfter-iso": "1966-02-03",
+        "listPlace": [ 
+          {
+            "placeName": "Austria",
+            "location": { 
+              "geo": "47.33333, 13.33333",
+              "type": "coords" },
+            "sameAs": "amp_place_id_10",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1965-09-29",
+        "listPerson": [
+          {
+            "persName": "N\/A_2, Harrison",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_108"
+          },
+          {
+            "persName": "Kallman, Chester",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_4"
+          },
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" }
+        ],
+        "label": "Telegram Harrison 1965-09-29--1966-02-03",
+        "subtype": "telegram",
+        "type": "communicative",
+        "xml:id": "amp_event_id_77"
+      },
+      {
+        "notAfter-iso": "1968-09-29",
+        "listPlace": [ 
+          {
+            "placeName": "Austria",
+            "location": { 
+              "geo": "47.33333, 13.33333",
+              "type": "coords" },
+            "sameAs": "amp_place_id_10",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1968-09-29",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Kallman, Chester",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_4"
+          },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          }
+        ],
+        "label": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1968-09-29",
+        "subtype": "meeting",
+        "type": "communicative",
+        "xml:id": "amp_event_id_78"
+      },
+      {
+        "notAfter-iso": "1968-10-05",
+        "listPlace": [ 
+          {
+            "placeName": "Hinterholz 6",
+            "location": { 
+              "geo": "48.18153, 15.81151",
+              "type": "coords" },
+            "sameAs": "amp_place_id_2",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1968-10-05",
+        "listPerson": [
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          },
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" }
+        ],
+        "label": "Telegram Stella Musulin to W. H. Auden 1968-10-05",
+        "subtype": "telegram",
+        "type": "communicative",
+        "xml:id": "amp_event_id_79"
+      },
+      {
+        "notAfter-iso": "1968-10-05",
+        "listPlace": [ 
+          {
+            "placeName": "Neulinggasse 26",
+            "location": { 
+              "geo": "48.19947, 16.38809",
+              "type": "coords" },
+            "sameAs": "amp_place_id_11",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1968-10-05",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_2"
+          }
+        ],
+        "label": "Telephone call W. H. Auden to Stella Musulin 1968-10-05",
+        "subtype": "telephone",
+        "type": "communicative",
+        "xml:id": "amp_event_id_80"
+      },
+      {
+        "notAfter-iso": "1968-10-06",
+        "listPlace": [ 
+          {
+            "placeName": "Neulinggasse 26",
+            "location": { 
+              "geo": "48.19947, 16.38809",
+              "type": "coords" },
+            "sameAs": "amp_place_id_11",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1968-10-06",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_2"
+          }
+        ],
+        "label": "Telephone call W. H. Auden to Stella Musulin 1968-10-06",
+        "subtype": "telephone",
+        "type": "communicative",
+        "xml:id": "amp_event_id_81"
+      },
+      {
+        "notAfter-iso": "1968-02-12",
+        "listPlace": [ 
+          {
+            "placeName": "Vienna",
+            "location": { 
+              "geo": "48.20849, 16.37208",
+              "type": "coords" },
+            "sameAs": "amp_place_id_1",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1968-02-12",
+        "listPerson": [ 
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" } ],
+        "label": "Arrival W. H. Auden in Vienna from New York City 1968-02-12",
+        "subtype": "travel",
+        "type": "personal",
+        "xml:id": "amp_event_id_82"
+      },
+      {
+        "notAfter-iso": "1968-10-07",
+        "listPlace": [ 
+          {
+            "placeName": "Austria",
+            "location": { 
+              "geo": "47.33333, 13.33333",
+              "type": "coords" },
+            "sameAs": "amp_place_id_10",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1968-10-07",
+        "listPerson": [ 
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" } ],
+        "label": "Departure W. H. Auden to England from Austria 1968-10-07",
+        "subtype": "travel",
+        "type": "personal",
+        "xml:id": "amp_event_id_83"
+      },
+      {
+        "notAfter-iso": "1963-05-14",
+        "listPlace": [ 
+          {
+            "placeName": "Kirchstetten",
+            "location": { 
+              "geo": "48.18333, 15.81667",
+              "type": "coords" },
+            "sameAs": "amp_place_id_5",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1963-05-14",
+        "listPerson": [ 
+          {
+            "persName": "Kallman, Chester",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_4"
+          } ],
+        "label": "Arrival Chester Kallman in Kirchstetten from Florence 1963-05-14",
+        "subtype": "travel",
+        "type": "personal",
+        "xml:id": "amp_event_id_84"
+      },
+      {
+        "notAfter-iso": "1965-04-22",
+        "listPlace": [ 
+          {
+            "placeName": "Kirchstetten",
+            "location": { 
+              "geo": "48.18333, 15.81667",
+              "type": "coords" },
+            "sameAs": "amp_place_id_5",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1965-04-22",
+        "listPerson": [ 
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" } ],
+        "label": "Arrival W. H. Auden in Kirchstetten from Berlin 1965-04-22",
+        "subtype": "travel",
+        "type": "personal",
+        "xml:id": "amp_event_id_85"
+      },
+      {
+        "notAfter-iso": "1966-04-20",
+        "listPlace": [ 
+          {
+            "placeName": "Kirchstetten",
+            "location": { 
+              "geo": "48.18333, 15.81667",
+              "type": "coords" },
+            "sameAs": "amp_place_id_5",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1966-04-20",
+        "listPerson": [ 
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" } ],
+        "label": "Arrival W. H. Auden in Kirchstetten from New York City 1966-04-20",
+        "subtype": "travel",
+        "type": "personal",
+        "xml:id": "amp_event_id_86"
+      },
+      {
+        "notAfter-iso": "1968-10-14",
+        "listPlace": [ 
+          {
+            "placeName": "London",
+            "location": { 
+              "geo": "51.50853, -0.12574",
+              "type": "coords" },
+            "sameAs": "amp_place_id_56",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1968-10-14",
+        "listPerson": [ 
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" } ],
+        "label": "Arrival W. H. Auden in London from Oxford 1968-10-14",
+        "subtype": "travel",
+        "type": "personal",
+        "xml:id": "amp_event_id_87"
+      },
+      {
+        "notAfter-iso": "1968-10-15",
+        "listPlace": [ 
+          {
+            "placeName": "32 Bryanston Square",
+            "location": { 
+              "geo": "51.51954, -0.16167",
+              "type": "coords" },
+            "sameAs": "amp_place_id_45",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1968-10-12",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          }
+        ],
+        "label": "Letter Stella Musulin to W. H. Auden 1968-10-12--1968-10-15",
+        "subtype": "letter",
+        "type": "communicative",
+        "xml:id": "amp_event_id_88"
+      },
+      {
+        "notAfter-iso": "1968-10-31",
+        "listPlace": [ 
+          {
+            "placeName": "London",
+            "location": { 
+              "geo": "51.50853, -0.12574",
+              "type": "coords" },
+            "sameAs": "amp_place_id_56",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1968-10-31",
+        "listPerson": [ 
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" } ],
+        "label": "Departure W. H. Auden to New York City from London 1968-10-31",
+        "subtype": "travel",
+        "type": "personal",
+        "xml:id": "amp_event_id_89"
+      },
+      {
+        "notAfter-iso": "1968-10-24",
+        "listPlace": [ 
+          {
+            "placeName": "32 Bryanston Square",
+            "location": { 
+              "geo": "51.51954, -0.16167",
+              "type": "coords" },
+            "sameAs": "amp_place_id_45",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1968-10-15",
+        "listPerson": [
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          },
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" }
+        ],
+        "label": "Letter Stella Musulin to W. H. Auden 1968-10-15--1968-10-24",
+        "subtype": "letter",
+        "type": "communicative",
+        "xml:id": "amp_event_id_90"
+      },
+      {
+        "notAfter-iso": "1968-11-06",
+        "listPlace": [ 
+          {
+            "placeName": "77 St. Mark's Place",
+            "location": { 
+              "geo": "40.72839, -73.98359",
+              "type": "coords" },
+            "sameAs": "amp_place_id_29",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1968-10-24",
+        "listPerson": [
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          },
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" }
+        ],
+        "label": "Letter Stella Musulin to W. H. Auden 1968-10-24--1968-11-06",
+        "subtype": "letter",
+        "type": "communicative",
+        "xml:id": "amp_event_id_91"
+      },
+      {
+        "notAfter-iso": "1968-12-13",
+        "listPlace": [ 
+          {
+            "placeName": "77 St. Mark's Place",
+            "location": { 
+              "geo": "40.72839, -73.98359",
+              "type": "coords" },
+            "sameAs": "amp_place_id_29",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1968-12-13",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Kallman, Chester",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_4"
+          }
+        ],
+        "label": "Telephone call Chester Kallman to W. H. Auden 1968-12-13",
+        "subtype": "telephone",
+        "type": "communicative",
+        "xml:id": "amp_event_id_92"
+      },
+      {
+        "notAfter-iso": "1969-01-04",
+        "listPlace": [ 
+          {
+            "placeName": "77 St. Mark's Place",
+            "location": { 
+              "geo": "40.72839, -73.98359",
+              "type": "coords" },
+            "sameAs": "amp_place_id_29",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1968-12-29",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          }
+        ],
+        "label": "Letter Stella Musulin to W. H. Auden 1968-12-29--1969-01-04",
+        "subtype": "letter",
+        "type": "communicative",
+        "xml:id": "amp_event_id_93"
+      },
+      {
+        "notAfter-iso": "1969-05-21",
+        "listPlace": [ 
+          {
+            "placeName": "Hinterholz 6",
+            "location": { 
+              "geo": "48.18153, 15.81151",
+              "type": "coords" },
+            "sameAs": "amp_place_id_2",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1969-01-04",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          }
+        ],
+        "label": "Postcard Stella Musulin to W. H. Auden 1969-01-04--1969-05-21",
+        "subtype": "postcard",
+        "type": "communicative",
+        "xml:id": "amp_event_id_94"
+      },
+      {
+        "notAfter-iso": "1969-05-21",
+        "listPlace": [ 
+          {
+            "placeName": "Austria",
+            "location": { 
+              "geo": "47.33333, 13.33333",
+              "type": "coords" },
+            "sameAs": "amp_place_id_10",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1969-01-04",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_2"
+          }
+        ],
+        "label": "Telephone call W. H. Auden to Stella Musulin 1969-01-04--1969-05-21",
+        "subtype": "telephone",
+        "type": "communicative",
+        "xml:id": "amp_event_id_95"
+      },
+      {
+        "notAfter-iso": "1969-05-06",
+        "org": {
+          "orgName": "Vienna State Opera",
+          "role": "is_organizer_of",
+          "sameAs": "amp_organization_90"
+        },
+        "listPlace": [ 
+          {
+            "placeName": "Vienna",
+            "location": { 
+              "geo": "48.20849, 16.37208",
+              "type": "coords" },
+            "sameAs": "amp_place_id_1",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1969-05-06",
+        "listPerson": [
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_2"
+          },
+          {
+            "persName": "Elizabeth II., Elizabeth of the United Kingdom",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_138"
+          }
+        ],
+        "label": "Opera performance \"Die Fledermaus\" Vienna State Opera 1969-05-06",
+        "xml:id": "amp_event_id_96"
+      },
+      {
+        "notAfter-iso": "1969-06-14",
+        "listPlace": [ 
+          {
+            "placeName": "Austria",
+            "location": { 
+              "geo": "47.33333, 13.33333",
+              "type": "coords" },
+            "sameAs": "amp_place_id_10",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1969-06-14",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          }
+        ],
+        "label": "Meeting W. H. Auden and Stella Musulin 1969-06-14",
+        "subtype": "meeting",
+        "type": "communicative",
+        "xml:id": "amp_event_id_97"
+      },
+      {
+        "notAfter-iso": "1970-06-10",
+        "listPlace": [ 
+          {
+            "placeName": "Hinterholz 6",
+            "location": { 
+              "geo": "48.18153, 15.81151",
+              "type": "coords" },
+            "sameAs": "amp_place_id_2",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1970-05-21",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          }
+        ],
+        "label": "Letter Stella Musulin to W. H. Auden 1970-05-21--1970-06-10",
+        "subtype": "letter",
+        "type": "communicative",
+        "xml:id": "amp_event_id_98"
+      },
+      {
+        "notAfter-iso": "1970-09-22",
+        "listPlace": [ 
+          {
+            "placeName": "Hinterholz 6",
+            "location": { 
+              "geo": "48.18153, 15.81151",
+              "type": "coords" },
+            "sameAs": "amp_place_id_2",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1970-09-22",
+        "listPerson": [
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          },
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Lloyd-Philipps, Margaret Elinor",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_225"
+          }
+        ],
+        "label": "Meeting W. H. Auden, Margaret Lloyd-Philipps, and Stella Musulin 1970-09-22",
+        "subtype": "meeting",
+        "type": "communicative",
+        "xml:id": "amp_event_id_99"
+      },
+      {
+        "notAfter-iso": "1971-05-15",
+        "listPlace": [ 
+          {
+            "placeName": "Austria",
+            "location": { 
+              "geo": "47.33333, 13.33333",
+              "type": "coords" },
+            "sameAs": "amp_place_id_10",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1971-05-15",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          },
+          {
+            "persName": "Kallman, Chester",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_4"
+          }
+        ],
+        "label": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1971-05-15",
+        "subtype": "meeting",
+        "type": "communicative",
+        "xml:id": "amp_event_id_100"
+      },
+      {
+        "notAfter-iso": "1971-11-01",
+        "listPlace": [ 
+          {
+            "placeName": "London",
+            "location": { 
+              "geo": "51.50853, -0.12574",
+              "type": "coords" },
+            "sameAs": "amp_place_id_56",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1971-11-01",
+        "listPerson": [ 
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" } ],
+        "label": "Departure W. H. Auden to New York City from London 1971-11-01",
+        "subtype": "travel",
+        "type": "personal",
+        "xml:id": "amp_event_id_101"
+      },
+      {
+        "notAfter-iso": "1972-02-22",
+        "listPlace": [ 
+          {
+            "placeName": "77 St. Mark's Place",
+            "location": { 
+              "geo": "40.72839, -73.98359",
+              "type": "coords" },
+            "sameAs": "amp_place_id_29",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1971-10-19",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          }
+        ],
+        "label": "Letter Stella Musulin to W. H. Auden 1971-10-19--1972-02-22",
+        "subtype": "letter",
+        "type": "communicative",
+        "xml:id": "amp_event_id_102"
+      },
+      {
+        "notAfter-iso": "1969-05-05",
+        "listPlace": [ 
+          {
+            "placeName": "Schloss Schönbrunn",
+            "location": { 
+              "geo": "48.18494, 16.31229",
+              "type": "coords" },
+            "sameAs": "amp_place_id_82",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1969-05-05",
+        "listPerson": [ 
+          {
+            "persName": "Elizabeth II., Elizabeth of the United Kingdom",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_138"
+          } ],
+        "label": "Gala dinner Schönbrunn Palace 1969-05-05",
+        "type": "historic",
+        "xml:id": "amp_event_id_103"
+      },
+      {
+        "notAfter-iso": "1969-03-01",
+        "notBefore-iso": "1969-03-01",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Mayer, Elizabeth",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_157"
+          }
+        ],
+        "label": "Letter W. H. Auden to Elizabeth Mayer 1965-03-01",
+        "subtype": "letter",
+        "type": "communicative",
+        "xml:id": "amp_event_id_104"
+      },
+      {
+        "notAfter-iso": "1984-11-03",
+        "org": [
+          { 
+            "orgName": "British Council",
+            "role": "is_organizer_of",
+            "sameAs": "amp_organization_16" },
+          { 
+            "orgName": "Künstlerhaus Wien",
+            "role": "is_host_of",
+            "sameAs": "amp_organization_60" }
+        ],
+        "listPlace": [ 
+          {
+            "placeName": "Vienna",
+            "location": { 
+              "geo": "48.20849, 16.37208",
+              "type": "coords" },
+            "sameAs": "amp_place_id_1",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1984-10-11",
+        "listPerson": [
+          {
+            "persName": "O'Sullivan, Michael",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_99"
+          },
+          { 
+            "persName": "Raimund, Hans",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_127" },
+          {
+            "persName": "Spender, Stephen",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_8"
+          },
+          {
+            "persName": "Carpenter, Humphrey",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_100"
+          }
+        ],
+        "label": "Exhibition \"W. H. Auden 1907-1973\" 1984-10-11--1984-11-03",
+        "type": "professional",
+        "idno": { 
+          "#text": "http:\/\/www.wikidata.org\/entity\/Q124830790",
+          "subtype": "WIKIDATA",
+          "type": "URI" },
+        "xml:id": "amp_event_id_105"
+      },
+      {
+        "notAfter-iso": "1976-06-23",
+        "org": { 
+          "orgName": "English PEN",
+          "role": "is_organizer_of",
+          "sameAs": "amp_organization_47" },
+        "listPlace": [ 
+          {
+            "placeName": "London",
+            "location": { 
+              "geo": "51.50853, -0.12574",
+              "type": "coords" },
+            "sameAs": "amp_place_id_56",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1976-06-23",
+        "listPerson": [ 
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_2"
+          } ],
+        "label": "Talk Stella Musulin \"Auden in Kirchstetten\" 1976-06-23",
+        "type": "professional",
+        "xml:id": "amp_event_id_106"
+      },
+      {
+        "notAfter-iso": "1957-07-15",
+        "notBefore-iso": "1957-07-15",
+        "listPerson": [
+          {
+            "persName": "Esders, Christa",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_121"
+          },
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" }
+        ],
+        "label": "Letter W. H. Auden to Christa Esders 1957-07-15",
+        "subtype": "letter",
+        "type": "communicative",
+        "xml:id": "amp_event_id_107"
+      },
+      {
+        "notAfter-iso": "1960-07-21",
+        "listPlace": [ 
+          {
+            "placeName": "Hinterholz 6",
+            "location": { 
+              "geo": "48.18153, 15.81151",
+              "type": "coords" },
+            "sameAs": "amp_place_id_2",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1959-10-10",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Lustkandl, Franz",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_109"
+          },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_2"
+          },
+          { 
+            "persName": "Seitz, Josef",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_200" },
+          { 
+            "persName": "Seitz, Maria",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_97" }
+        ],
+        "label": "Meeting W. H. Auden, Franz Lustkandl, Stella Musulin, Josef Seitz, and Maria Seitz 1959-10-10--1960-07-21",
+        "subtype": "meeting",
+        "type": "personal",
+        "xml:id": "amp_event_id_108"
+      },
+      {
+        "org": {
+          "orgName": "Österreichische Gesellschaft für Literatur (Austrian Society for Literature)",
+          "role": "is_organizer_of",
+          "sameAs": "amp_organization_9"
+        },
+        "listPlace": [ 
+          {
+            "placeName": "Palais Pálffy",
+            "location": { 
+              "geo": "48.20644, 16.3678",
+              "type": "coords" },
+            "sameAs": "amp_place_id_85",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "listPerson": [ 
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_1" } ],
+        "label": "Reading W. H. Auden \"Hier und Jetzt\"",
+        "type": "professional",
+        "xml:id": "amp_event_id_109"
+      },
+      {
+        "notAfter-iso": "1970-05-19",
+        "listPlace": [ 
+          {
+            "placeName": "Austria",
+            "location": { 
+              "geo": "47.33333, 13.33333",
+              "type": "coords" },
+            "sameAs": "amp_place_id_10",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1970-05-19",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Musulin, Stella Mary Bellairs",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_2"
+          }
+        ],
+        "label": "Telegram W. H. Auden to Stella Musulin 1970-05-19",
+        "subtype": "telegram",
+        "type": "professional",
+        "xml:id": "amp_event_id_110"
+      },
+      {
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_1" },
+          {
+            "persName": "Kokoschka, Oskar",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_83"
+          }
+        ],
+        "label": "Letter Oskar Kokoschka to W. H. Auden",
+        "subtype": "letter",
+        "type": "professional",
+        "xml:id": "amp_event_id_111"
+      },
+      {
+        "notAfter-iso": "1968-02-16",
+        "listPlace": [ 
+          {
+            "placeName": "Vienna",
+            "location": { 
+              "geo": "48.20849, 16.37208",
+              "type": "coords" },
+            "sameAs": "amp_place_id_1",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1968-02-16",
+        "listPerson": [ 
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_1" } ],
+        "label": "Departure W. H. Auden to New York City from Vienna 1968-02-16",
+        "subtype": "travel",
+        "type": "personal",
+        "xml:id": "amp_event_id_112"
+      },
+      {
+        "notAfter-iso": "1965-06-04",
+        "org": {
+          "orgName": "Vienna State Opera",
+          "role": "is_organizer_of",
+          "sameAs": "amp_organization_90"
+        },
+        "listPlace": [ 
+          {
+            "placeName": "Vienna",
+            "location": { 
+              "geo": "48.20849, 16.37208",
+              "type": "coords" },
+            "sameAs": "amp_place_id_1",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1965-03-14",
+        "listPerson": [
+          { 
+            "persName": "Schenk, Otto",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_250" },
+          {
+            "persName": "Kallman, Chester",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_4"
+          }
+        ],
+        "label": "Opera performance \"The Rake's Progress\" Vienna State Opera 1965-03-14--1965-06-04",
+        "xml:id": "amp_event_id_113"
+      },
+      { 
+        "label": "\"Vorlesungsreise\"",
+        "xml:id": "amp_event_id_114" },
+      {
+        "notAfter-iso": "1970-03-01",
+        "listPlace": [ 
+          {
+            "placeName": "Austria",
+            "location": { 
+              "geo": "47.33333, 13.33333",
+              "type": "coords" },
+            "sameAs": "amp_place_id_10",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1970-03-01",
+        "listPerson": [ 
+          {
+            "persName": "Kreisky, Bruno",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_282"
+          } ],
+        "label": "1970 Austrian legislative election",
+        "type": "historic",
+        "idno": { 
+          "#text": "http:\/\/www.wikidata.org\/entity\/Q680680",
+          "subtype": "WIKIDATA",
+          "type": "URI" },
+        "xml:id": "amp_event_id_115"
+      },
+      {
+        "notAfter-iso": "1968-11-05",
+        "listPlace": [ 
+          {
+            "placeName": "United States of America",
+            "location": { 
+              "geo": "39.76, -98.5",
+              "type": "coords" },
+            "sameAs": "amp_place_id_15",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1968-11-05",
+        "listPerson": [
+          {
+            "persName": "Nixon, Richard Milhous",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_260"
+          },
+          {
+            "persName": "Humphrey, Hubert Horatio Jr.",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_261"
+          }
+        ],
+        "label": "1968 United States presidential election",
+        "type": "historic",
+        "idno": { 
+          "#text": "http:\/\/www.wikidata.org\/entity\/Q693742",
+          "subtype": "WIKIDATA",
+          "type": "URI" },
+        "xml:id": "amp_event_id_116"
+      },
+      {
+        "notAfter-iso": "1961-05-20",
+        "org": [
+          {
+            "orgName": "Süddeutscher Rundfunk",
+            "role": "is_organizer_of",
+            "sameAs": "amp_organization_103"
+          },
+          {
+            "orgName": "Schlosstheater Schwetzingen (Schwetzingen palace theater)",
+            "role": "is_host_of",
+            "sameAs": "amp_organization_107"
+          }
+        ],
+        "listPlace": [ 
+          {
+            "placeName": "Hotel Europäischer Hof",
+            "sameAs": "amp_place_id_370",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1961-05-20",
+        "listPerson": [
+          { 
+            "persName": "Kallman, Chester",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_4" },
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_attendee_of",
+            "sameAs": "amp_person_1" },
+          { 
+            "persName": "Bausch, Hans",
+            "role": "is_activeparticipant_in",
+            "sameAs": "amp_person_262" }
+        ],
+        "label": "Premiere \"Elegie für junge Liebende\" 1961-05-20",
+        "type": "historic",
+        "xml:id": "amp_event_id_117"
+      },
+      {
+        "org": {
+          "orgName": "Schlosstheater Schwetzingen (Schwetzingen palace theater)",
+          "role": "is_host_of",
+          "sameAs": "amp_organization_107"
+        },
+        "notBefore-iso": "1952-05-24",
+        "label": "Schwetzinger Festspiele (Schwetzingen Festival)",
+        "type": "historic",
+        "idno": { 
+          "#text": "http:\/\/www.wikidata.org\/entity\/Q320221",
+          "subtype": "WIKIDATA",
+          "type": "URI" },
+        "xml:id": "amp_event_id_118"
+      },
+      {
+        "notAfter-iso": "1971-05-25",
+        "org": [
+          { 
+            "orgName": "Kleine Galerie",
+            "role": "is_host_of",
+            "sameAs": "amp_organization_163" },
+          {
+            "orgName": "Gesellschaft der Kunstfreunde",
+            "role": "is_organizer_of",
+            "sameAs": "amp_organization_162"
+          }
+        ],
+        "listPlace": [ 
+          {
+            "placeName": "Vienna",
+            "location": { 
+              "geo": "48.20849, 16.37208",
+              "type": "coords" },
+            "sameAs": "amp_place_id_1",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1971-05-25",
+        "listPerson": [
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_1" },
+          { 
+            "persName": "Staub, Herta Felicia",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_220" }
+        ],
+        "label": "Reading W. H. Auden 1971-05-25",
+        "type": "professional",
+        "xml:id": "amp_event_id_119"
+      },
+      {
+        "notAfter-iso": "1970-09-29",
+        "org": {
+          "orgName": "Österreichische Gesellschaft für Literatur (Austrian Society for Literature)",
+          "role": "is_organizer_of",
+          "sameAs": "amp_organization_9"
+        },
+        "listPlace": [ 
+          {
+            "placeName": "Palais Pálffy",
+            "location": { 
+              "geo": "48.20644, 16.3678",
+              "type": "coords" },
+            "sameAs": "amp_place_id_85",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1970-09-29",
+        "listPerson": [ 
+          { 
+            "persName": "Auden, W. H.",
+            "role": "is_speaker_in",
+            "sameAs": "amp_person_1" } ],
+        "label": "Reading W. H. Auden 1970-09-29",
+        "type": "professional",
+        "xml:id": "amp_event_id_120"
+      }
+    ] }
