@@ -10,6 +10,8 @@
     2. Group repeated sibling TEI elements (e.g., org) into arrays
     
     Input: TEI/XML document containing tei:listEvent with tei:event element(s)
+    Assumes: single-namespace TEI input (children are keyed by local name,
+    so cross-namespace name clashes would collide into one key).
     Output: JSON structure compatible with Python affiliation-builder
     
     XSLT Version: 3.0
