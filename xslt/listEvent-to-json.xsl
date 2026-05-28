@@ -31,12 +31,8 @@
     xmlns:array="http://www.w3.org/2005/xpath-functions/array"
     exclude-result-prefixes="tei map array">
     
-    <!-- 
-        Output method="text" is defensive choice over method="json":
-        method="text" with explicit serialize() function is more transparent,
-        easier to debug, and might work more reliably across Saxon versions.
-    -->
-    <xsl:output method="text" encoding="UTF-8"/>
+    <!-- Serialize result map as indented JSON -->
+    <xsl:output method="json" encoding="UTF-8" indent="yes"/>
     
     <!-- Remove whitespace-only text nodes and whitespace between elements -->
     <xsl:strip-space elements="*"/>
@@ -45,13 +41,13 @@
     <!-- Root template: entry point -->
     <!-- ================================================================== -->
     
-    <!-- Create and serialize JSON object -->
+    <!-- Build result map -->
     <xsl:template match="/">
         <xsl:variable name="json-map" as="map(*)">
             <!-- Find listEvent element and call template to process it -->
             <xsl:apply-templates select="//tei:listEvent[not(ancestor::tei:listEvent)]"/>
         </xsl:variable>
-        <xsl:value-of select="serialize($json-map, map{'method':'json', 'indent':true()})"/>
+        <xsl:sequence select="$json-map"/>
     </xsl:template>
     
     <!-- ================================================================== -->
