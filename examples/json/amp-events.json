@@ -3002,5 +3002,27 @@
         "label": "Reading W. H. Auden 1970-09-29",
         "type": "professional",
         "xml:id": "amp_event_id_120"
+      },
+      {
+        "notAfter-iso": "1970-08-30",
+        "listPlace": [ 
+          {
+            "placeName": "Salzburg",
+            "location": { 
+              "geo": "47.79941, 13.04399",
+              "type": "coords" },
+            "sameAs": "amp_place_id_37",
+            "subtype": "is_event_location",
+            "type": "location"
+          } ],
+        "notBefore-iso": "1970-07-26",
+        "listPerson": [ 
+          { 
+            "persName": "Spiel, Hilde",
+            "role": "is_passiveparticipant_in",
+            "sameAs": "amp_person_78" } ],
+        "label": "Salzburg Festival 1970-07-26--1970-08-30",
+        "type": "historic",
+        "xml:id": "amp_event_id_121"
       }
     ] }
